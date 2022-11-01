@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### `npm run server`
 
-Runs the server in por 9000 for the images.\
+Runs the server in port 9000 for the images.
 
 ### `npm start`
 
